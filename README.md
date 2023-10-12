@@ -1,6 +1,8 @@
 # HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion
 
-[Xian Liu](https://alvinliu0.github.io/), [Jian Ren](https://alanspike.github.io/), [Aliaksandr Siarohin](https://aliaksandrsiarohin.github.io/aliaksandr-siarohin-website/), [Ivan Skorokhodov](https://universome.github.io/), [Yanyu Li](https://scholar.google.com/citations?user=XUj8koUAAAAJ&hl=en), [Dahua Lin](http://dahua.site/), [Xihui Liu](https://xh-liu.github.io/), [Ziwei Liu](https://liuziwei7.github.io/), [Sergey Tulyakov](http://www.stulyakov.com/).
+[Xian Liu](https://alvinliu0.github.io/)<sup>1,2</sup>, [Jian Ren](https://alanspike.github.io/)<sup>1</sup>, [Aliaksandr Siarohin](https://aliaksandrsiarohin.github.io/aliaksandr-siarohin-website/)<sup>1</sup>, [Ivan Skorokhodov](https://universome.github.io/)<sup>1</sup>, [Yanyu Li](https://scholar.google.com/citations?user=XUj8koUAAAAJ&hl=en)<sup>1</sup>,   
+[Dahua Lin](http://dahua.site/)<sup>2</sup>, [Xihui Liu](https://xh-liu.github.io/)<sup>3</sup>, [Ziwei Liu](https://liuziwei7.github.io/)<sup>4</sup>, [Sergey Tulyakov](http://www.stulyakov.com/)<sup>1</sup>.  
+<sup>1</sup>Snap Inc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>2</sup>CUHK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>3</sup>HKU&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>4</sup>NTU     
 
 ### [Project](https://snap-research.github.io/HyperHuman/) | [Paper](https://snap-research.github.io/HyperHuman/content/hyperhuman.pdf) | [arXiv](https://arxiv.org/pdf/xxxx) | [Short Demo (3min)](https://www.youtube.com/watch?v=eRPZW1pwxog) | [Long Demo (10min)](https://www.youtube.com/watch?v=CxGfbwZOcyU)
 
